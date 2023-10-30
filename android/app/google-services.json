@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752258495724",
+    "project_id": "mobile-otp-70730",
+    "storage_bucket": "mobile-otp-70730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752258495724:android:88dfbadb059a63022f61c9",
+        "android_client_info": {
+          "package_name": "com.example.mobile_otp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8JcN8IRX3R87wjCtpEfStO4HLYog5FLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
